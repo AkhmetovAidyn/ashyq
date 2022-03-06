@@ -738,6 +738,7 @@ input::placeholder {
   }
   .input__search {
     padding: 10px 10px 10px 40px;
+    font-size: 12px;
   }
   .slider-blog {
     border-bottom: 8px solid #f0f0f0;
