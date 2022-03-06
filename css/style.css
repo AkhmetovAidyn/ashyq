@@ -199,6 +199,10 @@ input::placeholder {
   background-color: #ededed;
   padding-top: 20px;
 }
+.ms-sec {
+  color: #4a4a4a;
+  font-weight: 100;
+}
 .button {
   padding: 10px 45px;
   background-color: #0089d1;
@@ -439,6 +443,10 @@ input::placeholder {
 }
 
 @media (max-width: 414px) {
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 100;
+  }
   .menu {
     margin: 15px 0;
   }
@@ -500,6 +508,10 @@ input::placeholder {
 }
 
 @media (max-width: 412px) {
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 100;
+  }
   .button {
     font-size: 14px;
     padding: 20px 75px;
@@ -566,6 +578,10 @@ input::placeholder {
   .logo__ashyq{
     margin: -4px -27px;
   }
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 100;
+  }
   .button {
     font-size: 14px;
     padding: 20px 65px;
@@ -626,6 +642,10 @@ input::placeholder {
   .input-num {
     font-size: 14px;
     line-height: 18px;
+  }
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 100;
   }
   .button {
     font-size: 14px;
@@ -696,6 +716,10 @@ input::placeholder {
 @media (max-width: 360px) {
   .logo__ashyq{
     margin: -6px -27px;
+  }
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 100;
   }
   .button {
     font-size: 14px;
