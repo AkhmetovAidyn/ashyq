@@ -142,7 +142,7 @@ body {
 
 .ms-sec{
   color: #4a4a4a;
-  font-weight: 100;
+  font-weight: 600;
 }
 .content-text {
   font-family: "Roboto light", sans-serif;
@@ -430,6 +430,10 @@ input::placeholder {
 }
 
 @media (max-width: 768px) {
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 600;
+  }
   .logo__ashyq{
     margin: -4px -27px;
   }
@@ -445,7 +449,7 @@ input::placeholder {
 @media (max-width: 414px) {
   .ms-sec {
     color: #4a4a4a;
-    font-weight: 100;
+    font-weight: 600;
   }
   .menu {
     margin: 15px 0;
@@ -510,7 +514,7 @@ input::placeholder {
 @media (max-width: 412px) {
   .ms-sec {
     color: #4a4a4a;
-    font-weight: 100;
+    font-weight: 600;
   }
   .button {
     font-size: 14px;
@@ -580,7 +584,7 @@ input::placeholder {
   }
   .ms-sec {
     color: #4a4a4a;
-    font-weight: 100;
+    font-weight: 600;
   }
   .button {
     font-size: 14px;
@@ -645,7 +649,7 @@ input::placeholder {
   }
   .ms-sec {
     color: #4a4a4a;
-    font-weight: 100;
+    font-weight: 600;
   }
   .button {
     font-size: 14px;
@@ -719,7 +723,7 @@ input::placeholder {
   }
   .ms-sec {
     color: #4a4a4a;
-    font-weight: 100;
+    font-weight: 600;
   }
   .button {
     font-size: 14px;
@@ -771,6 +775,10 @@ input::placeholder {
   } 
   .clock{
     color: rgb(67, 62, 62);
+  }
+  .ms-sec {
+    color: #4a4a4a;
+    font-weight: 600;
   }
   .button {
     font-size: 12px;
