@@ -670,7 +670,10 @@ input::placeholder {
     grid-gap: 10px;
   }
   .info-box__span {
-    font-size: 11px;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .product__title {
     font-size: 18px;
@@ -712,6 +715,9 @@ input::placeholder {
   }
   .info-box__span {
     font-size: 11px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .product-item__box {
     max-width: 150px;
