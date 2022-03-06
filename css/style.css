@@ -692,6 +692,14 @@ input::placeholder {
     font-size: 14px;
     padding: 20px 50px;
   }
+  .label__search {
+    position: relative;
+    margin-left: 15px;
+  }
+  .input__search {
+    padding: 10px 10px 10px 40px;
+    font-size: 14px;
+  }
   .slider-blog__img {
     width: 160px !important;
     margin-left: 17px;
@@ -738,7 +746,7 @@ input::placeholder {
   }
   .input__search {
     padding: 10px 10px 10px 40px;
-    font-size: 12px;
+    font-size: 14px;
   }
   .slider-blog {
     border-bottom: 8px solid #f0f0f0;
